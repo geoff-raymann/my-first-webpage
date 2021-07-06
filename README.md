@@ -1,6 +1,6 @@
-# {PREP 45}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# PREP 45
+#### This is a webpage created to help as learn some HTML and Apply Styles to it, 6 Jul 2021
+#### By *geoff-raymann**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
